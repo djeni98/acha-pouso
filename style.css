@@ -1,5 +1,18 @@
 body {
     font-family: Roboto, sans-serif;
+    margin: 0;
+}
+
+header {
+    background-color: #FFA5A8;
+    padding: 32px;
+}
+
+h1 {
+    margin: 0;
+}
+
+section {
     margin: 0 16px 0 32px;
 }
 
